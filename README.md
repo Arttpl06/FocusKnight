@@ -76,3 +76,5 @@ Para alterar as durações, edite as propriedades passadas a `PomodoroCrono` em 
 ---
 
 Feito por [Artur](https://github.com/Arttpl06). Um level de cada vez. ✦
+
+OBS:O design da interface foi criado com ajuda de IA. A lógica do temporizador, os componentes e o hook de intervalo em TypeScript foram desenvolvidos por mim no caso de alguns erros envolvendo código ou matemática pedi pra ia analisar e me explicar como corrigir.
